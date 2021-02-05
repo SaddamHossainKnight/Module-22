@@ -1,8 +1,8 @@
 const firstName = "Saddam";
 const lastName = "Hossain";
-const fullName = firstName +" "+ lastName;
-console.log(fullName);
+const fullName = `${firstName} ${lastName} ${20+50+70+90+100} is a good boy`;
+const fullName2 = `this is the one
 
+this is the two`;
+console.log(fullName2);
 
-git config --global user.email "knight.ru.bd.com"
-git config --global user.name "SaddamHossainKnight"
